@@ -1,0 +1,88 @@
+main{font-family:Arial, Helvetica, sans-serif }
+.signin{
+        background-color: aqua;
+        color: white;
+        height: 20px;
+        width: 60px;
+        border: none;
+        }
+.search{
+        display: block;
+        position: relative;
+        margin: auto;
+        width: 500px;
+        top: 145px;
+        border-radius: 20px;
+        height: 35px;
+    }
+footer{ position: fixed;
+        bottom: 0;
+        left: 0
+        ;}
+#google{ display: block;
+        margin: auto;
+        position: absolute;
+        top: 185px;
+        left: 40%;
+
+    }
+head    {
+        position: relative;
+        text-align: right;
+        }
+ul{
+        list-style-type: none;
+        margin:0;
+        padding:0;
+        }
+li{     display: inline;
+        float: right;
+        padding: 1px;
+        margin: 1px;}
+a{      color:rgb(75, 67, 67) ;
+        text-decoration: none;
+        font-size: 12px;
+        display:block;
+        margin:3px;
+        padding:zpx;}
+.greece{color:rgb(75, 67, 67);}
+.right{float: right;}
+.footer{font-size: 15px;
+        height: 30px;
+        top:0;
+        left:0;
+        display: block;
+        width:100%;
+        background-color: rgba(219, 219, 219, 0.555);
+        border-style: solid;
+        border:rgba(219, 219, 219, 0.781);
+        border-width: 10px;
+       }
+.div{    background-color:rgba(219, 219, 219, 0.555);
+        height: 22px;
+        width: 100vw;
+        border:rgba(219, 219, 219, 0.781);
+            border-top-style: none;
+            border-top-width: medium;
+            border-right-style: none;
+            border-right-width: medium;
+            border-bottom-style: none;
+            border-bottom-width: medium;
+            border-left-style: none;
+            border-left-width: medium;
+        border-style: solid;
+        border-width: 1px;
+    }
+p{margin: -4px;
+        padding: 7px;;}
+.search-submit{
+        background-color: rgba(219, 219, 219, 0.781);
+        display: inline-block;
+        position: relative;
+        margin: auto;
+        width: 200px;
+        top: 320px;
+        border-radius: 2px;
+        height: 35px;
+        border: none;
+        left: 483px;}
